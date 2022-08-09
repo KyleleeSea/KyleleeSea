@@ -4,7 +4,7 @@
 - ✨ Carnegie Mellon University student 
 - 🏗️ Currently sharpening my Solidity smart contract programming skills 
 - 💘 In love with web3, AI, and machine learning
-- ❓ Always searching for new project ideas 
+- 👾 Always searching for new project ideas 
 
 ### Connect With Me:
 [![website](./img/twitter-light.svg)](https://twitter.com/kyleleesea#gh-light-mode-only)
