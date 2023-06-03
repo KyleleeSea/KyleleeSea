@@ -31,10 +31,10 @@
 <br />
 
 ## My Live Web Apps:
-- [Seraphina: A.I. Writing Tool](https://seraphinai.com/)
-- [ShareList: Playlist Sharing Community](https://sharelist.org/)
-- [PowerliftML: Compare with Powerlifters](https://powerliftml.herokuapp.com/)
-- [NFT Sorter: Filter Upcoming Projects](https://nftsorter.com/)
+- [Seraphina: A.I. Writing Tool](https://github.com/KyleleeSea/Seraphina)
+- [ShareList: Playlist Sharing Community](https://github.com/KyleleeSea/Sharelist)
+- [PowerliftML: Compare with Powerlifters](https://github.com/KyleleeSea/PowerliftML)
+- [NFT Sorter: Filter Upcoming Projects](https://github.com/KyleleeSea/nftsorter)
 
 ## Latest Blog Posts:
 - [Sort & Narrow Upcoming NFT Drops with Data: How I Developed NFT Sorter](https://hackernoon.com/sort-and-narrow-upcoming-nft-drops-with-data-how-i-developed-nft-sorter)
