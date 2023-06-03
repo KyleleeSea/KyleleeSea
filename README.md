@@ -30,7 +30,7 @@
 <br />
 <br />
 
-## My Live Web Apps:
+## Previous Projects:
 - [Seraphina: A.I. Writing Tool](https://github.com/KyleleeSea/Seraphina)
 - [ShareList: Playlist Sharing Community](https://github.com/KyleleeSea/Sharelist)
 - [PowerliftML: Compare with Powerlifters](https://github.com/KyleleeSea/PowerliftML)
