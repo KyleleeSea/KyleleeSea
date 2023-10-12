@@ -1,9 +1,7 @@
 # Hello world, my name is Kyle <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
 - 🖥️ Full stack web developer
-- ✨ Carnegie Mellon University student 
-- 🏗️ Currently sharpening my Solidity smart contract programming skills 
-- 💘 In love with web3, AI, and machine learning
+- ✨ Carnegie Mellon University Computer Science major 
 - 👾 Always searching for new project ideas 
 
 ### Connect With Me:
